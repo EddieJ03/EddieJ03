@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edward Jin</h1>
-<h3 align="center">My name is Edward Jin and I am a computer science student @ UCSD. I enjoy working on web development projects, learning new programming languages and solving algorithmic programming problems.</h3>
+<h3 align="center">I am a computer science student @ UCSD and I enjoy working on web development projects, learning new programming languages as well as solving algorithmic programming problems.</h3>
 
 - 🌱 I’m currently learning **Algorithms II**
 

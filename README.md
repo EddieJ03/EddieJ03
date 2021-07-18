@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm Edward Jin</h1>
-<h3 align="center">I am a computer science student @ UCSD and I enjoy working on web development projects, learning new programming languages as well as solving algorithmic programming problems.</h3>
+### Hi there 👋, I'm Edward Jin
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 🌱 I’m currently learning **Algorithms II**
+I am a computer science student @ UCSD and I enjoy working on web development projects, learning new programming languages as well as solving algorithmic programming problems.
 
-- 📫 How to reach me **ecjin@ucsd.edu**
+Skills: REACT / JS / HTML / CSS / SQL / JAVA / NODE
+
+- 🌱 I’m currently learning Algorithms II 
+- 📫 How to reach me: ecjin@ucsd.edu 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EddieJ03)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieJ03&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/EddieJ03)  

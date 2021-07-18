@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Edward Jin
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersden.com%2Fprogramming-coding-language-wallpaper%2F1644x3840%2F&psig=AOvVaw2LUuMkhq5eKKAwmYApzotf&ust=1626734451584000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjgsZzY7fECFQAAAAAdAAAAABAJ)
 
 I am a computer science student @ UCSD and I enjoy working on web development projects, learning new programming languages as well as solving algorithmic programming problems.
 

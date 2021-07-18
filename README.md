@@ -2,7 +2,7 @@
 
 My name is Edward Jin and I am a computer science student @ UCSD. I enjoy working on web development projects, learning new programming languages and solving algorithmic programming problems.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edward jin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardjin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

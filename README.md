@@ -1,21 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Edward Jin</h1>
+<h3 align="center">My name is Edward Jin and I am a computer science student @ UCSD. I enjoy working on web development projects, learning new programming languages and solving algorithmic programming problems.</h3>
 
-My name is Edward Jin and I am a computer science student @ UCSD. I enjoy working on web development projects, learning new programming languages and solving algorithmic programming problems.
+- 🌱 I’m currently learning **Algorithms II**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardjin)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **ecjin@ucsd.edu**
 
 
-<!--
-**EddieJ03/EddieJ03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>

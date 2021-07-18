@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Edward Jin
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersden.com%2Fprogramming-coding-language-wallpaper%2F1644x3840%2F&psig=AOvVaw2LUuMkhq5eKKAwmYApzotf&ust=1626734451584000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjgsZzY7fECFQAAAAAdAAAAABAJ)
+![](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
 I am a computer science student @ UCSD and I enjoy working on web development projects, learning new programming languages as well as solving algorithmic programming problems.
 

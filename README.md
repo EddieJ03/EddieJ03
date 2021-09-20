@@ -4,7 +4,6 @@ I am a computer science student @ UCSD and I enjoy working on web development pr
 
 Skills: REACT / JS / HTML / CSS / SQL / JAVA / NODE
 
-- 🌱 I’m currently learning Algorithms II 
 - 📫 How to reach me: ecjin@ucsd.edu 
 
 

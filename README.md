@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Edward Jin
 
-I am a computer science student @ UCSD and I enjoy working on web development projects, learning new programming languages as well as solving algorithmic programming problems.
+I am a computer science student @ UCSD and I enjoy working on web development projects, learning new programming languages, and solving algorithmic programming problems.
 
 Skills: REACT / JS / HTML / CSS / SQL / JAVA / NODE
 

@@ -2,7 +2,7 @@
 
 I am a computer science student @ UCSD and I enjoy working on web development projects, learning new programming languages, and solving algorithmic programming problems.
 
-Skills: REACT / JAVASCRIPT / TYPESCRIPT / HTML / CSS / SQL / JAVA / NODE / PYTHON \ DOCKER
+Skills: REACT / JAVASCRIPT / TYPESCRIPT / HTML / CSS / SQL / JAVA / NODE / PYTHON / DOCKER
 
 - 📫 How to reach me: ecjin@ucsd.edu 
 

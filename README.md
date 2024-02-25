@@ -2,7 +2,7 @@
 
 I am a computer science student @ UCSD and I enjoy working on web development projects, learning new programming languages, and solving algorithmic programming problems.
 
-I am a former Microsoft SWE intern and open to intern opportunities for Summer 2024!
+I am a former Microsoft SWE intern and will be joining LinkedIn in Summer 2024!
 
 Skills: REACT / JAVASCRIPT / TYPESCRIPT / C / HTML / CSS / SQL / JAVA / NODE / PYTHON / DOCKER
 

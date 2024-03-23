@@ -10,7 +10,3 @@ Skills: REACT / JAVASCRIPT / TYPESCRIPT / C / HTML / CSS / SQL / JAVA / NODE / P
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EddieJ03)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieJ03&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/EddieJ03)  

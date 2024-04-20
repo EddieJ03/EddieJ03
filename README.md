@@ -4,7 +4,7 @@ I am a computer science student @ UCSD and I enjoy working on web development pr
 
 I am a former Microsoft SWE intern where I interned on the Audio Services Engineering Team under Azure Speech!
 
-Skills: REACT / JAVASCRIPT / TYPESCRIPT / C / HTML / CSS / SQL / JAVA / NODE / PYTHON / DOCKER
+Skills: REACT / JAVASCRIPT / TYPESCRIPT / C / C++ / HTML / CSS / SQL / JAVA / NODE / PYTHON / DOCKER
 
 - 📫 How to reach me: ecjin@ucsd.edu 
 

@@ -9,3 +9,5 @@ Skills: REACT / JAVASCRIPT / TYPESCRIPT / C / C++ / HTML / CSS / SQL / JAVA / NO
 - 📫 How to reach me: ecjin@ucsd.edu 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieJ03&show_icons=true)   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieJ03)](https://github.com/EddieJ03/github-readme-stats)

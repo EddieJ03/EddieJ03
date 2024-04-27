@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Edward Jin
 
-I am a computer science student @ UCSD and I enjoy working on web development projects, learning new programming languages, and solving algorithmic programming problems.
+I am a computer science student @ UCSD and I enjoy working on web development projects, learning new programming languages, and solving algorithmic programming problems. I will be joining LinkedIn as a Software Engineer Intern this upcoming summer.
 
 I am a former Microsoft SWE intern where I interned on the Audio Services Engineering Team under Azure Speech!
 

@@ -12,4 +12,4 @@ Skills: REACT / JAVASCRIPT / TYPESCRIPT / C / C++ / HTML / CSS / SQL / JAVA / NO
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieJ03)](https://github.com/EddieJ03/github-readme-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ejscfj?ext=contest&ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ejscfj?ext=contest)

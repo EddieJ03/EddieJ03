@@ -6,7 +6,7 @@ Internship Experience:
 - Summer 2024: I will be joining LinkedIn as a Software Engineer Intern on the iOS Infrastructure & Productivity Team
 - Summer 2023: I was a SWE intern at Microsoft, where I interned on the Audio Services Engineering Team under Azure Speech
 
-Skills: REACT / JAVASCRIPT / TYPESCRIPT / C / C++ / HTML / CSS / SQL / JAVA / NODE / PYTHON / DOCKER
+Skills: REACT / JAVASCRIPT / TYPESCRIPT / C / C++ / Go / HTML / CSS / SQL / JAVA / NODE / PYTHON / DOCKER 
 
 - 📫 How to reach me: ecjin@ucsd.edu 
 

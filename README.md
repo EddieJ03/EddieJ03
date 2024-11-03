@@ -1,12 +1,11 @@
 ### Hi there 👋, I'm Edward Jin
 
-I am a computer science student @ UCSD and I enjoy working on web development projects, learning new programming languages, and solving algorithmic programming problems. 
+I am a computer science student @ UCSD largely interested in the intersection of large-scale systems and AI/ML. 
 
 Internship Experience: 
-- Summer 2024: I will be joining LinkedIn as a Software Engineer Intern on the iOS Infrastructure & Productivity Team
-- Summer 2023: I was a SWE intern at Microsoft, where I interned on the Audio Services Engineering Team under Azure Speech
-
-Skills: REACT / JAVASCRIPT / TYPESCRIPT / C / C++ / Go / HTML / CSS / SQL / JAVA / NODE / PYTHON / DOCKER 
+- Summer 2025: I will be joining Databricks as a SWE intern
+- Summer 2024: I was a SWE Intern LinkedIn, where I interned on the iOS Infrastructure & Productivity Team under Product Engineering
+- Summer 2023: I was a SWE Intern at Microsoft, where I interned on the Audio Services Engineering Team under Azure Speech
 
 - 📫 How to reach me: ecjin@ucsd.edu 
 

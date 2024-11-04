@@ -3,7 +3,6 @@
 I am a computer science student @ UCSD largely interested in the intersection of large-scale systems and AI/ML. 
 
 Internship Experience: 
-- Summer 2025: I will be joining Databricks as a SWE intern
 - Summer 2024: I was a SWE Intern LinkedIn, where I interned on the iOS Infrastructure & Productivity Team under Product Engineering
 - Summer 2023: I was a SWE Intern at Microsoft, where I interned on the Audio Services Engineering Team under Azure Speech
 

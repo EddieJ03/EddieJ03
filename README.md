@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Edward Jin
 
-I am a computer science student @ UCSD largely interested in the intersection of large-scale systems and AI/ML. 
+I am a computer science student @ UCSD largely interested in large-scale systems, AI/ML, and their intersection. 
 
 Internship Experience: 
 - Summer 2024: I was a SWE Intern LinkedIn, where I interned on the iOS Infrastructure & Productivity Team under Product Engineering

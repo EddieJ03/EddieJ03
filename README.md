@@ -6,6 +6,4 @@ Internship Experience:
 - Summer 2024: I was a SWE Intern LinkedIn, where I interned on the iOS Infrastructure & Productivity Team under Product Engineering
 - Summer 2023: I was a SWE Intern at Microsoft, where I interned on the Audio Services Engineering Team under Azure Speech
 
-- 📫 How to reach me: ecjin@ucsd.edu 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieJ03&show_icons=true)   
+- 📫 How to reach me: ecjin@ucsd.edu or ejscfj@gmail.com   
